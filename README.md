@@ -1,2 +1,2 @@
 # chess_ai
-viebcoded chess ai
+vibecoded chess ai
